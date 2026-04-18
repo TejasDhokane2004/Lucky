@@ -1,4 +1,4 @@
 # Lucky
 This is my first Git repose
 <br>
-Author - Tejas Dhokane
+Author - Tejas ( Nashik)
